@@ -1,0 +1,10 @@
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/bin/Debug/netcoreapp2.0/DotnetTagHelperSample.deps.json
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/bin/Debug/netcoreapp2.0/DotnetTagHelperSample.runtimeconfig.json
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/bin/Debug/netcoreapp2.0/DotnetTagHelperSample.runtimeconfig.dev.json
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/bin/Debug/netcoreapp2.0/DotnetTagHelperSample.dll
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/bin/Debug/netcoreapp2.0/DotnetTagHelperSample.pdb
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/obj/Debug/netcoreapp2.0/DotnetTagHelperSample.csproj.CoreCompileInputs.cache
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/obj/Debug/netcoreapp2.0/DotnetTagHelperSample.AssemblyInfoInputs.cache
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/obj/Debug/netcoreapp2.0/DotnetTagHelperSample.AssemblyInfo.cs
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/obj/Debug/netcoreapp2.0/DotnetTagHelperSample.dll
+/private/var/www/DotnetTagHelperSample/DotnetTagHelperSample/DotnetTagHelperSample/obj/Debug/netcoreapp2.0/DotnetTagHelperSample.pdb
